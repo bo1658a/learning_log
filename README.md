@@ -1,1 +1,1 @@
-# learning_log
+I built this following a tutorial and will use this to update stuff that I am learning on a daily basis. As I keep learning and reinforcing my knowledge, I will keep updating and eventually deploy it.
