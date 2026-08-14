@@ -1,1 +1,1 @@
-I built this following a tutorial and will use this to update stuff that I am learning on a daily basis. As I keep learning and reinforcing my knowledge, I will keep updating and eventually deploy it.
+I built this tool to help as a roadmap to those interested in learning Analytics Engineering. It is a systematic way to keep track and stay focused on learning. As I keep learning and reinforcing my knowledge of Django and Backend engineering as well, I will keep updating and eventually deploy it.
